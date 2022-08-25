@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EgonnZ
-- 👀 I’m interested in web development and Test
+- 👀 I’m interested in web development and Human Tester Job
 - 🌱 I’m currently studying JavaScript and Syllabus CTFL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
